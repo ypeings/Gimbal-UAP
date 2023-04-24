@@ -17,7 +17,7 @@ The script can be launched using the command: "python Gimbal_LoS_main.py"
    The F-18 flight path (with or without the effect of selected wind) is plotted in Figures/Fig_F18_path.pdf
 
 3/ The code then plots the associated LOS, and the UAP flight path that corresponds to the set of parameters specified by the user. 
-   An interactive window appears that shows both flight paths and the LOS, in a 3D space (X, Y, Z coordinates in Nm). The persepctive, zoom, can be changed 
+   An interactive window appears that shows both flight paths and the LOS, in a 3D space (X, Y, Z coordinates in Nm). The perspective, zoom, can be     changed 
    to visualize the results, and plots for the encounter can be saved. 
    Several graphs are generated that indicate air speed and ground speed for the object (Fig_speed.pdf), altitude, (Fig_alt.pdf) and other parameters, 
    in function of time (frame #) 

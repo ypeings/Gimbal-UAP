@@ -5,7 +5,7 @@ Please create a directory named "Figures" to save the output figures generated b
 The script can be launched using the command: "python Gimbal_LoS_main.py"
 
 1/ The user needs to set a few parameters for the encounter at the top of the code: 
-- wind direction (angle in degrees, relative to initial heading) and speed in Knots ("the wind is 120 Knots to the West")
+- wind direction (angle in degrees, relative to initial heading of the F-18) and speed in Knots ("the wind is 120 Knots to the West")
 - the type of flight path for the object : const_head or const_alt. 
 - const_head plots a straight line through the lines of sight (LOS), starting at an initial distance, in Nautical miles Nm, set by the "dist_init" parameter
   The direction of flight is specified by the "offset" parameter, as an angle of deviation from wind direction in degrees ("they're going against the wind")
